@@ -1,6 +1,8 @@
 """
 בס"ד
 Elior Safiev 212795355
+ariel david 324929124
+yosef haim amedi 211376686
 """
 
 def pentagonal_number(n: int) -> int:
